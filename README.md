@@ -1,7 +1,7 @@
 # WeatherStationLogger
 
 #####  This is a GUI script written for the University of Western Australia OzGrav to log weather at the Gingin Site.
-#####  Modified by Wenjing Zhen and Conor Hanavan
+#####  Modified by Wenjing Zheng and Conor Hanavan
 #####  Originally written by Jason Gan https://github.com/jason-gan/WeatherStationLogger
 
 #####  Requirements:
